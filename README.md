@@ -1,4 +1,13 @@
-# 🎓 Student Performance Prediction System
+# 🎓 ACADEMYFLOW
+Team members : BARANI & ARJUN
+
+# Project Roles : 
+ - Model Training - Barani 
+ - EDA & Feature Engineering - Both 
+ - Deployment - Both 
+
+ This project was built collaboratively by both team members. Contributions are reflected in commit history and development workflow.
+
 
 A machine learning web application that predicts student academic performance based on study habits, sleep patterns, and other behavioral factors.
 
