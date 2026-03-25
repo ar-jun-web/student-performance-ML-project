@@ -136,7 +136,7 @@ st.markdown("""
     font-weight: 800;
     color: #ffffff;
     margin: 0.5rem 0 1rem 0;
-    line-height: 1.2
+    line-height: 1.2;
     text-shadow: 0 0 20px rgba(165, 180, 252, 0.4);
 }
 .hero-subtitle {
