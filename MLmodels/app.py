@@ -134,11 +134,10 @@ st.markdown("""
 .hero-title {
     font-size: 3.2rem;
     font-weight: 800;
-    background: linear-gradient(135deg, #fff 0%, #a5b4fc 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color: #ffffff;
     margin: 0.5rem 0 1rem 0;
-    line-height: 1.2;
+    line-height: 1.2
+    text-shadow: 0 0 20px rgba(165, 180, 252, 0.4);
 }
 .hero-subtitle {
     font-size: 1.15rem;
