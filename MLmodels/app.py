@@ -18,25 +18,28 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
 )
-st.markdown("""
-<div style="
-    padding:40px;
-    border-radius:20px;
-    background: linear-gradient(135deg, #2b2d6e, #3f2b96);
-    color:white
-    text-align:center;
-">
+st.markdown(
+    """
+    <div style='
+        padding:40px;
+        border-radius:20px;
+        background: linear-gradient(135deg, #2b2d6e, #3f2b96);
+        color:white;
+        text-align:center;
+    '>
 
-    <h1 style="margin-bottom:10px; font-size:38px; font-weight:600;">
-        AcademyFlow
-    </h1>
+        <h1 style='margin-bottom:10px; font-size:38px; font-weight:600;'>
+            AcademyFlow
+        </h1>
 
-    <p style="opacity:0.85; font-size:16px;">
-        Advanced analytics engine for student performance prediction and personalized insights
-    </p>
+        <p style='opacity:0.85; font-size:16px;'>
+            Advanced analytics engine for student performance prediction and personalized insights
+        </p>
 
-</div>
-""", unsafe_allow_html=True)
+    </div>
+    """,
+    unsafe_allow_html=True
+)
 st.markdown("<br>", unsafe_allow_html=True)
 
 # ══════════════════════════════════════════════════════════════
