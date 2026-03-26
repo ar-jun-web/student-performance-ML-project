@@ -181,7 +181,7 @@ sleep_hours = st.slider("😴 Sleep Hours", 4, 12, 7)
 
 ### Division of Work
 - **Arjun:** Backend ML model development, feature engineering, model training
-- **Barani (Me):** Frontend UI/UX, visualization, user experience, deployment
+- **Barani (Me):** Both Frontend UI/UX & Backend, visualization, user experience, deployment 
 
 ---
 
@@ -234,10 +234,10 @@ sleep_hours = st.slider("😴 Sleep Hours", 4, 12, 7)
 
 ## 📞 Connect with Me
 
-**GitHub:** [@barani](https://github.com/barani)  
-**Email:** barani@example.com  
-**LinkedIn:** [Your LinkedIn Profile]  
-**Portfolio:** [Your Portfolio Website]
+**GitHub:** [lynxofficial7777-hash] 
+**Email:** baranimoorthy77@gmail.com  
+**LinkedIn:** [www.linkedin.com/in/barani-m-ba02a9289]
+ **Portfolio:** [(https://academyflow.streamlit.app/)]
 
 ---
 
