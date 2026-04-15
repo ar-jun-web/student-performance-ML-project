@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+.env
+
+# Flutter build
+mobile/build/
+mobile/.dart_tool/
+mobile/android/.gradle/
